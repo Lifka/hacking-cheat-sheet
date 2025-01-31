@@ -98,6 +98,7 @@
  * [Osintgram](https://github.com/Datalux/Osintgram): It is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname.
   
 #### IP geolocation lookup
+ * [IPQuery](https://ipquery.io)
  * [GeoIP API](https://api.ip.sb/geoip)
  * [IP2Location](https://www.ip2location.com/)
  * [IP Location Finder](https://www.iplocation.net/)
